@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 💬 Ask me about Clean Architecture, DevOps, Scrum, Agile, .NET Core, Vue, and Angular
+- 🔭 I’m currently working on https://cn.vuejs.org/
+- 📃 I blog here: https://yypz.top
+- 💻 I work at SSW http://www.strong-tc.com/
+- 📫 How to reach me: @destzhenhua
+
+![destzhenhua's github stats](https://github-readme-stats.vercel.app/api/?username=destzhenhua&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
 <!--
 **DestZhenhua/DestZhenhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
