@@ -5,7 +5,7 @@
 - 💻 I work at http://www.strong-tc.com/
 - 📫 How to reach me: @destzhenhua
 
-[destzhenhua's github stats](https://github-readme-stats.vercel.app/api/?username=destzhenhua&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![destzhenhua's github stats](https://github-readme-stats.vercel.app/api/?username=destzhenhua&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 <!--
